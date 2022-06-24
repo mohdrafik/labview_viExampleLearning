@@ -1,0 +1,3 @@
+CAEN PSM.lvlib
+	C:\Program Files (x86)\National Instruments\LabVIEW 2020\instr.lib\CAEN PSM\CAEN PSM.lvlib
+	F:\mfusco\RepoSVN\PSM_Labview_InstrumentDriver\CAEN PSM\CAEN PSM.lvlib
